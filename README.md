@@ -9,3 +9,4 @@ CREATE TABLE `users` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=6789644 DEFAULT CHARSET=utf8mb4;
 ```
+And yes, if anything was used to store merged accounts from databases. Not used by me, made to order.
